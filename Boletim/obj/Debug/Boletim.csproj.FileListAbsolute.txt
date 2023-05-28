@@ -1,0 +1,8 @@
+C:\Users\Giovani Reis\Documents\IFSP-CMP\C#\Boletim\Boletim\bin\Debug\Boletim.exe.config
+C:\Users\Giovani Reis\Documents\IFSP-CMP\C#\Boletim\Boletim\bin\Debug\Boletim.exe
+C:\Users\Giovani Reis\Documents\IFSP-CMP\C#\Boletim\Boletim\bin\Debug\Boletim.pdb
+C:\Users\Giovani Reis\Documents\IFSP-CMP\C#\Boletim\Boletim\obj\Debug\Boletim.csproj.AssemblyReference.cache
+C:\Users\Giovani Reis\Documents\IFSP-CMP\C#\Boletim\Boletim\obj\Debug\Boletim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovani Reis\Documents\IFSP-CMP\C#\Boletim\Boletim\obj\Debug\Boletim.csproj.CoreCompileInputs.cache
+C:\Users\Giovani Reis\Documents\IFSP-CMP\C#\Boletim\Boletim\obj\Debug\Boletim.exe
+C:\Users\Giovani Reis\Documents\IFSP-CMP\C#\Boletim\Boletim\obj\Debug\Boletim.pdb
