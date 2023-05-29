@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Boletim
@@ -26,7 +27,10 @@ namespace Boletim
             Console.WriteLine("" + x.nome);
             Console.WriteLine("" + x.curso);
             Console.WriteLine("Nota Final:{0} ",x.Media() );
-            Console.WriteLine("Situação Final: {0} \n", x.situacao());      
+            Console.WriteLine("Situação Final: {0} \n", x.situacao());
+            Thread.Sleep(10000);
+            Console.Clear();
+            Console.WriteLine("Muito Obrigado por consultar !");
          
 
 
