@@ -27,7 +27,7 @@ namespace Boletim
 
         public string situacao()
         {
-            if (media <=5 && media >=4)
+            if (media <=6 && media >=3)     //Alteração feita por <<Alisson Bastos>>
             {
                 return "IFA";
             }
