@@ -14,7 +14,8 @@ namespace Boletim
         {
             Aluno x = new Aluno();
 
-            Console.Write("Digite seu nome: ");
+            //ALTERAÇÕES FEITAS POR: Natália Maria Secco Souza
+            Console.Write("Digite seu nome completo: ");
             x.nome= Console.ReadLine();
             Console.Write("Digite seu curso: ");
             x.curso = Console.ReadLine();
@@ -28,7 +29,8 @@ namespace Boletim
             Console.WriteLine("" + x.nome);
             Console.WriteLine("" + x.curso);
             Console.WriteLine("Nota Final:{0} ",x.Media() );
-            Console.WriteLine("Situação Final: {0} \n", x.situacao());
+            //ALTERAÇÕES FEITAS POR: Natália Maria Secco Souza
+            Console.WriteLine("Situação Final (Aprovado ou Reprovado): {0} \n", x.situacao());
             Thread.Sleep(10000);
             Console.Clear();
             Console.WriteLine("Muito Obrigado por consultar !");
