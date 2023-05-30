@@ -14,7 +14,7 @@ namespace Boletim
         public string curso;
         public double nota1;
         public double nota2;
-        public double nota3; //ALTERAÇÃO FEITA POR: Natália Maria Secco Souza
+        public double nota3;        //Alteração feita por <<Alisson Bastos>>
         public double media;
         public string semestre;         //Alteração feita por <<Alisson Bastos>>
 
@@ -28,7 +28,7 @@ namespace Boletim
 
         public string situacao()
         {
-            if (media <=5 && media >=4)
+            if (media <=6 && media >=3)     //Alteração feita por <<Alisson Bastos>>
             {
                 return "IFA";
             }
