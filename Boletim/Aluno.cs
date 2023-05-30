@@ -15,6 +15,7 @@ namespace Boletim
         public double nota1;
         public double nota2;
         public double media;
+        public string semestre;         //Alteração feita por <<Alisson Bastos>>
 
 
         public double Media()

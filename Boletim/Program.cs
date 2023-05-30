@@ -18,6 +18,7 @@ namespace Boletim
             x.nome= Console.ReadLine();
             Console.Write("Digite seu curso: ");
             x.curso = Console.ReadLine();
+            x.semestre = Console.ReadLine();        //Alteração feita por <<Alisson Bastos>>
             Console.Write("Digite a primeira nota: ");
             x.nota1 = double.Parse(Console.ReadLine());
             Console.Write("Digite a segunda nota: ");
